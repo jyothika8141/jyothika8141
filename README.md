@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [a web app](https://github.com/jyothika8141/myFirstWebsite)
-<br>🌱 I’m currently learning OOPs and DSA in Java<br>💬 Ask me about Python, Django<br>⚡ Fun fact I love reading webtoons
+- 🔭 I’m currently working on [a web app](https://github.com/jyothika8141/Airbnb-clone)
+<br>🌱 I’m currently learning DSA in C++<br>💬 Ask me about Python, Django<br>⚡ Fun fact I love reading webtoons
 
 
 ## 🌐 Socials:
